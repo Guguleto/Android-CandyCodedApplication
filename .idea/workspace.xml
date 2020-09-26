@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,24 +173,32 @@
       <option name="project" value="LOCAL" />
       <updated>1601157808624</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="createPhoneIntent method">
+      <created>1601158366837</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601158366837</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Intent in MainActivity for InfoActivity" />
     <MESSAGE value=" createMapIntent Method" />
     <MESSAGE value="createMapIntent method" />
-    <option name="LAST_COMMIT_MESSAGE" value="createMapIntent method" />
+    <MESSAGE value="createPhoneIntent method" />
+    <option name="LAST_COMMIT_MESSAGE" value="createPhoneIntent method" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="525" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1601154186961">
+    <state x="525" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1601158503994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="525" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601154186961" />
-    <state x="375" y="0" key="CommitChangelistDialog2" timestamp="1601157804223">
+    <state x="525" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601158503994" />
+    <state x="375" y="0" key="CommitChangelistDialog2" timestamp="1601159164583">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="375" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601157804223" />
+    <state x="375" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601159164583" />
     <state width="1163" height="163" key="GridCell.Tab.0.bottom" timestamp="1601154128531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -208,14 +215,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1163" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601154128530" />
-    <state x="312" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601157811265">
+    <state x="312" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601158390968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="312" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601157811265" />
-    <state x="529" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601158309582">
+    <state x="312" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601158390968" />
+    <state x="529" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601159002591">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="529" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601158309582" />
+    <state x="529" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601159002591" />
     <state x="376" y="164" key="run.anything.popup" timestamp="1601154261587">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
